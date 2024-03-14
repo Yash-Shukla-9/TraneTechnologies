@@ -5,7 +5,7 @@ import Search from "../Atoms/Search";
 const Navbar = () => {
   return (
     <Header>
-      <img src="/public/logo-TT.svg" alt="logo" className="navlogo" />
+      <img src="/logo-TT.svg" alt="logo" className="navlogo" />
       <Navlist />
       <Search />
     </Header>
