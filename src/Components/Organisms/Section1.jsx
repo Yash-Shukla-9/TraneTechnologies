@@ -62,8 +62,8 @@ const Left = styled.div`
 
   .text {
     font-size: 55px;
-    line-height: 1.3;
-    font-weight: 600;
+    line-height: 1.2;
+    font-weight: 500;
     color: var(--text-color);
   }
 `;
