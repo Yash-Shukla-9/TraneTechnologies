@@ -23,7 +23,7 @@ const Section1 = () => {
           </AllLinks>
         </Smallbox>
         <p className="text">
-          Today, big ideas and <br /> bold action. <br />
+          Today, big ideas and <br /> bold action. <br /> <br />
           Tomorrow, a better <br /> world for everyone.
         </p>
         <ButtonLink title={"See our impact"} />

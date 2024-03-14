@@ -19,7 +19,10 @@ const Header = styled.div`
   align-items: center;
   justify-content: space-evenly;
   /* padding: 20px 0; */
-  height: 100px;
+  height: 80px;
+  position: sticky;
+  top: 0px;
+  background-color: white;
 
   .navlogo {
     width: 150px;
